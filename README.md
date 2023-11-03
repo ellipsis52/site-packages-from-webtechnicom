@@ -4,10 +4,16 @@ Setup
 
 You can install this package by using the pip tool and installing:
 
+     $  pip install adyen
+
     $ pip install stripe
     
 Or:
 
+
+    $ pip install adyen
+
+    
     $ easy_install stripe
     
 
